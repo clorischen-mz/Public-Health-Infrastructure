@@ -1,5 +1,4 @@
 # Elements Of Local Public Health Infrastructure that Correlate with Best Practice Activities
-Preliminary analysis was published here - DOI: https://doi.org/10.25394/PGS.22661374.v1
 
 ## Goal
 To identify elements of local public health infrastructure (PHI) that are associated with the completion of 20 key public health activities while adjusting for state differences.
