@@ -1,4 +1,4 @@
-# Elements Of Local Public Health Infrastructure that Correlate with Best Practice Activities
+# Logistic Regression of Public Health Infrastructure and Best Practices
 
 ## Goal
 To identify elements of local public health infrastructure (PHI) that are associated with the completion of 20 key public health activities while adjusting for state differences.
